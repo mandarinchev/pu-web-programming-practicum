@@ -1,0 +1,8 @@
+#theme-toggle:hover {
+    cursor: pointer;
+}
+
+.rounded-circle {
+    width: 66px;
+    height: 66px;
+}
